@@ -10,6 +10,6 @@
     "karma-phantomjs-launcher": "^0.1.4"
   },
   "scripts": {
-    "test": "$(npm bin)/karma start"
+    "test": "tsc --sourceMap **/*.ts && $(npm bin)/karma start"
   }
 }
