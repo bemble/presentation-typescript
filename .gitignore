@@ -1,0 +1,8 @@
+.DS_Store
+
+.idea
+*.js.map
+Objet/04.typescript.js
+Angular/app/**/*.js
+Angular/tests/**/*.js
+Angular/node_modules
